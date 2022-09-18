@@ -20,21 +20,21 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: matthieu.medengessia@outlook.com
-      link: mailto:matthieu.medengessia@outlook.com
+      value: yourmail@domain.com
+      link: mailto:yourmail@domain.com
     - name: WeChat
       value: YourWeChatUsername
       link: "#"
   follow:
-    - name: Instagram
-      link: https://www.instagram.com/medengessia
-      username: "@medengessia"
+    - name: Twitter
+      link: http://twitter.com/YourTwitterUsername
+      username: "@YourTwitterUsername"
     - name: Facebook
-      link: https://facebook.com/medengessia
+      link: http://facebook.com/YourFacebookUsername
     - name: LinkedIn
-      link: https://www.linkedin.com/in/matthieu-medeng-essia-773189225
+      link: http://linkedin.com/in/YourLinkedInUsername
     - name: GitHub
-      link: https://github.com/medengessia
+      link: http://github.com/YourGitHubUsername
     - name: Dribbble
       link: https://dribbble.com/YourDribbbleUsername
     - name: RSS
