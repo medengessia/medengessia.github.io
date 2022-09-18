@@ -5,7 +5,7 @@ title: My professional Web Page
 description: >- # this means to ignore newlines until "baseurl:"
   Bay is a minimal Jekyll Theme.
 baseurl: "" # the subpath of the site
-url: "https://medengessia.github.io" # the base hostname & protocol for the site
+url: "https://medengessia.github.io/index" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 google_analytics: "UA-121636368-3"
 
@@ -24,7 +24,7 @@ footer:
       value: matthieu.medengessia@outlook.com
       link: mailto:matthieu.medengessia@outlook.com
   follow:
-    - name: Instagram
+    - name: Insta
       link: https://www.instagram.com/medengessia
       username: "@medengessia"
     - name: Facebook
