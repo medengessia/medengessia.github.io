@@ -12,9 +12,10 @@ google_analytics: "UA-121636368-3"
 header:
   pages:
     - name: Home
-      slug: /
+      slug: /index
     - name: Work
     - name: Blog
+      slug: /blog
 
 footer:
   show_powered_by: true
