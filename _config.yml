@@ -25,6 +25,7 @@ footer:
       link: mailto:matthieu.medengessia@outlook.com
     - name: Github Action for LaTeX
       uses: xu-cheng/latex-action@v2
+      link: https://github.com/medengessia/Business_Card/raw/master/card.pdf
 
   follow:
     - name: Insta
