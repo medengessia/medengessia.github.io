@@ -23,6 +23,9 @@ footer:
     - name: Email
       value: matthieu.medengessia@outlook.com
       link: mailto:matthieu.medengessia@outlook.com
+    - name: Github Action for LaTeX
+      uses: xu-cheng/latex-action@v2
+
   follow:
     - name: Insta
       link: https://www.instagram.com/medengessia
