@@ -23,7 +23,7 @@ footer:
     - name: Email
       value: matthieu.medengessia@outlook.com
       link: mailto:matthieu.medengessia@outlook.com
-    - name: Github Action for LaTeX
+    - name: Business Card
       uses: xu-cheng/latex-action@v2
       link: https://github.com/medengessia/Business_Card/raw/master/card.pdf
 
