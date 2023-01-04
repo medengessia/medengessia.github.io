@@ -23,14 +23,8 @@ footer:
     - name: Email
       value: matthieu.medengessia@outlook.com
       link: mailto:matthieu.medengessia@outlook.com
-    - name: Card
-      uses: xu-cheng/latex-action@v2
-      link: https://github.com/medengessia/Business_Card/raw/master/card.pdf
 
   follow:
-    - name: Insta
-      link: https://www.instagram.com/medengessia
-      username: "@medengessia"
     - name: Facebook
       link: http://facebook.com/medengessia
     - name: LinkedIn
